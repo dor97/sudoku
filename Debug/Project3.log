@@ -1,0 +1,3 @@
+﻿  main_functions.c
+C:\Users\natan\source\repos\Project3\Project3\main_functions.c(259,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\natan\source\repos\Project3\Debug\Project3.exe
